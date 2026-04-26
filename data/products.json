@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PROD-001",
+    "name": "Wipol - Cairan Pembersih Toilet + Botol",
+    "image": "wipolbotol.jpg",
+    "price": 25000,
+    "description": "Cairan khusus toilet agar lantai dan kloset bersinar bebas kuman."
+  },
+  {
+    "id": "PROD-002",
+    "name": "Wipol - Cairan Pembersih Toilet",
+    "image": "wipoltanpabotol.jpg",
+    "price": 20000,
+    "description": "Refill cairan wipol ukuran standar."
+  },
+  {
+    "id": "PROD-003",
+    "name": "Baygon - Pengusir Hama",
+    "image": "baygon.jpeg",
+    "price": 35000,
+    "description": "Melindungi rumah dari serangga berbahaya."
+  },
+  {
+    "id": "PROD-004",
+    "name": "Sunlight - Sabun Cuci Piring",
+    "image": "sunlight.jpeg",
+    "price": 15000,
+    "description": "Efektif menghilangkan lemak membandel."
+  },
+  {
+    "id": "PROD-005",
+    "name": "Busa Cuci Piring",
+    "image": "busacucipiring.jpeg",
+    "price": 5000,
+    "description": "Busa berdaya serap tinggi, tidak merusak piring."
+  },
+  {
+    "id": "PROD-006",
+    "name": "Lap Kanebo",
+    "image": "lapkanebo.jpg",
+    "price": 18000,
+    "description": "Lap serbaguna yang kuat menyerap cairan dengan cepat."
+  },
+  {
+    "id": "PROD-007",
+    "name": "Freshleen - Sabun Cuci Piring",
+    "image": "sabuncucipiring.png",
+    "price": 14000,
+    "description": "Pilihan cuci piring ekonomis beraroma segar."
+  },
+  {
+    "id": "PROD-008",
+    "name": "Vixal - Cairan Pembersih Wc/Toilet",
+    "image": "vixal.jpg",
+    "price": 22000,
+    "description": "Penghancur kerak membandel pada porselen kamar mandi."
+  }
+]

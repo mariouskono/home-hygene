@@ -1,0 +1,88 @@
+[
+  {
+    "orderId": "ORD-1776573715467",
+    "createdAt": "2026-04-19T04:41:55.467Z",
+    "username": "mario",
+    "address": "Jakarta",
+    "date": "2026-04-16",
+    "time": "11:44",
+    "notes": "",
+    "cart": [
+      {
+        "id": "PKG-A",
+        "name": "Paket A (Sapu & Pel Per Lantai)",
+        "price": 150000,
+        "type": "package",
+        "quantity": 1
+      },
+      {
+        "id": "PKG-B",
+        "name": "Paket B (A + Vakum Kasur/Sofa)",
+        "price": 250000,
+        "type": "package",
+        "quantity": 1
+      },
+      {
+        "id": "PKG-E",
+        "name": "Paket E (A + Cuci Baju)",
+        "price": 400000,
+        "type": "package",
+        "quantity": 1
+      }
+    ],
+    "total": 800000,
+    "status": "Tugas Selesai"
+  },
+  {
+    "orderId": "ORD-1776580817218",
+    "createdAt": "2026-04-19T06:40:17.218Z",
+    "username": "uno",
+    "address": "Bekasi",
+    "date": "2026-04-25",
+    "time": "13:44",
+    "notes": "",
+    "cart": [
+      {
+        "id": "PKG-E",
+        "name": "Paket E (A + Cuci Baju)",
+        "price": 400000,
+        "type": "package",
+        "quantity": 1
+      },
+      {
+        "id": "PROD-006",
+        "name": "Lap Kanebo",
+        "price": 18000,
+        "type": "product",
+        "image": "lapkanebo.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "PROD-005",
+        "name": "Busa Cuci Piring",
+        "price": 5000,
+        "type": "product",
+        "image": "busacucipiring.jpeg",
+        "quantity": 1
+      },
+      {
+        "id": "PROD-007",
+        "name": "Freshleen - Sabun Cuci Piring",
+        "price": 14000,
+        "type": "product",
+        "image": "sabuncucipiring.png",
+        "quantity": 1
+      },
+      {
+        "id": "PROD-002",
+        "name": "Wipol - Cairan Pembersih Toilet",
+        "price": 20000,
+        "type": "product",
+        "image": "wipoltanpabotol.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 457000,
+    "status": "Tugas Selesai"
+  }
+]

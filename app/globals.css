@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+/* Core base */
+@theme {
+  --font-heading: var(--font-heading);
+  --font-body: var(--font-body);
+  --color-primary: #10b981;
+  --color-primary-dark: #059669;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  overflow-x: hidden;
+  @apply bg-slate-50 text-slate-900 transition-colors duration-300;
+}
+
+/* Sidebar scrollbar hide */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

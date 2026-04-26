@@ -1,0 +1,23 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "Budi Santoso",
+    "position": "Senior Cleaner",
+    "shift": "Pagi (08:00 - 16:00)",
+    "status": "Free"
+  },
+  {
+    "id": "EMP-002",
+    "name": "Siti Aminah",
+    "position": "Specialist Area Kering",
+    "shift": "Siang (14:00 - 22:00)",
+    "status": "Busy"
+  },
+  {
+    "id": "EMP-003",
+    "name": "Agus Setiawan",
+    "position": "Gardener",
+    "shift": "Pagi (08:00 - 16:00)",
+    "status": "Free"
+  }
+]
