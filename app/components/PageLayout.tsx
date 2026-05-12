@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import Sidebar from "./Sidebar";
 import Navbar from "./Navbar";
 import BottomNav from "./BottomNav";
@@ -45,7 +45,9 @@ export default function PageLayout({
       )}
 
       {/* Sidebar - always rendered, visibility controlled by isOpen prop */}
-      <Sidebar isOpen={isSidebarOpen} />
+      <Suspense fallback={null}>
+        <Sidebar isOpen={isSidebarOpen} />
+      </Suspense>
 
       {/* Main content area - shifts right when sidebar is open on desktop */}
       <div

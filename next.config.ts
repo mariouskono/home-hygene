@@ -2,8 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   devIndicators: {
-    appIsrStatus: false,
-    buildActivityPosition: 'bottom-right',
+    position: 'bottom-right',
   },
 };
 
