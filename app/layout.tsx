@@ -17,7 +17,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Home Hygn | Premium Cleaning",
+  title: "Home Hygene",
   description: "Layanan pembersihan profesional dan super premium.",
 };
 

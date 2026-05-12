@@ -84,5 +84,25 @@
     ],
     "total": 457000,
     "status": "Tugas Selesai"
+  },
+  {
+    "orderId": "ORD-1778575206600",
+    "createdAt": "2026-05-12T08:40:06.600Z",
+    "username": "uno",
+    "address": "Bekasi",
+    "date": "2026-05-07",
+    "time": "01:13",
+    "notes": "",
+    "cart": [
+      {
+        "id": "PKG-E",
+        "name": "Paket E (A + Cuci Baju)",
+        "price": 400000,
+        "type": "package",
+        "quantity": 1
+      }
+    ],
+    "total": 400000,
+    "status": "Tugas Selesai"
   }
 ]
