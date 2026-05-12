@@ -3,9 +3,11 @@
 import { useState } from "react";
 import { PlusSquare, Edit, Save, XCircle } from "lucide-react";
 
+type ToastType = "success" | "error" | "info";
+
 interface UsersTabProps {
   users: any[];
-  toast: (msg: string, type: string) => void;
+  toast: (msg: string, type?: ToastType) => void;
   onReload: () => void;
 }
 
